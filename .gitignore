@@ -1,0 +1,9 @@
+data/
+results/
+figures/
+pipeline_logs/
+__pycache__/
+*.pyc
+.DS_Store
+*.nc
+*.nc.gz
