@@ -1,5 +1,7 @@
 # Correlation Network Reorganization Detects the 1976-77 Pacific Regime Shift
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19026014.svg)](https://doi.org/10.5281/zenodo.19026014)
+
 **Author:** Drake H. Harbert (D.H.H.)
 **Affiliation:** Inner Architecture LLC, Canton, OH
 **ORCID:** [0009-0007-7740-3616](https://orcid.org/0009-0007-7740-3616)
